@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951774033474",
+    "project_id": "drink-it-8c072",
+    "storage_bucket": "drink-it-8c072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951774033474:android:d236eefe833d780be31fdb",
+        "android_client_info": {
+          "package_name": "com.jokomanza.drink_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951774033474-pdmkmieut6e6jom4sufrqq6bshnmi4fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkLyVie8zq6Ph8y6j086syQz1qubNBiXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951774033474-pdmkmieut6e6jom4sufrqq6bshnmi4fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

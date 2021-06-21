@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drink-it</string>
+    <string name="token_prefix">Token is %s</string>
+    <string name="handle_notification_now">Handle Notification Now</string>
+</resources>
